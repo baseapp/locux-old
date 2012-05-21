@@ -1,0 +1,29 @@
+G04 ================== begin FILE IDENTIFICATION RECORD ==================*
+G04 Layout Name:  D:/EDA/PCB/ALLEGRO/PROJECT/IMX233-SOM/PCB/IMX233_SOM_06.brd*
+G04 Film Name:    BOARD_OUTLINE*
+G04 File Format:  Gerber RS274X*
+G04 File Origin:  Cadence Allegro 16.3-p003*
+G04 Origin Date:  Wed Apr 04 13:57:36 2012*
+G04 *
+G04 Layer:  BOARD GEOMETRY/OUTLINE*
+G04 *
+G04 Offset:    (0.000 0.000)*
+G04 Mirror:    No*
+G04 Mode:      Positive*
+G04 Rotation:  0*
+G04 FullContactRelief:  No*
+G04 UndefLineWidth:     0.000*
+G04 ================== end FILE IDENTIFICATION RECORD ====================*
+%FSLAX34Y34*MOMM*%
+%IR0*IPPOS*OFA0.00000B0.00000*MIA0B0*SFA1.00000B1.00000*%
+%ADD10C,.2*%
+G75*
+%LPD*%
+G75*
+G54D10*
+G01X-300000Y350000D02*
+X360000D01*
+Y-250000D01*
+X-300000D01*
+Y350000D01*
+M02*
